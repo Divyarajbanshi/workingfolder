@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B8FA-459A
+
+ Directory of C:\Users\Administrator\Desktop\workingfolder
+
+05/28/2019  01:44 AM    <DIR>          .
+05/28/2019  01:44 AM    <DIR>          ..
+05/28/2019  01:44 AM                 0 Branch1.txt
+05/28/2019  01:25 AM                31 test.txt
+05/28/2019  01:26 AM                14 test2.txt
+               3 File(s)             45 bytes
+               2 Dir(s)   4,880,564,224 bytes free
